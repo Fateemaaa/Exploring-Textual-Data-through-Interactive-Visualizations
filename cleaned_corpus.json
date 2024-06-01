@@ -1,0 +1,2470 @@
+[
+  {
+    "url": "http://www.dailyscript.com/scripts/10Things.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.hundland.org/scripts/1492-ConquestOfParadise.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Affliction.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/InnerSpace.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Insider,+The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Intolerable%20Cruelty.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/It+Happened+One+Night.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/JFK.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Jackie+Brown.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Jacobs+Ladder.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Jason+X.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Jaws.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Juno.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/AirForceOne_TXT.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Kalifornia.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Kids.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/msol/Knight_m.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Krull.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/msol/LEON.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.fortunecity.com/tattooine/clarke/38/scripts/LaborOfLove.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Leaving+Las+Vegas.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Legally%20Blonde.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.angelfire.com/movies/ridleyscott/script/LegendOfDarkness.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/LifeAsAHouse.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Airplane2_script.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Life.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Little+Nicky.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Logans+Run.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Lost+Highway.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Lost_Horizon.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Men+In+Black.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Minority%20Report.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Made.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Malcolm+X.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Man+On+Fire.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Airplane_script.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Marty.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/MASH.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Meet_John_Doe.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Metro.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.angelfire.com/movies/ridleyscott/script/Metropolis.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.hundland.org/scripts/MightyMorphinPowerRangers.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Mobsters.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/MonkeyBone_script.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.moviemalls.com/papers/MotherDreamsFD.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Mr%20Smith%20Goes%20To%20Washington.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Alien_Nation_Bannon_Cameron_October_1987.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Mr._Deeds_Goes_to_Town.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Mumford.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Mummy,+The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Mystery+Men.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://web.archive.org/web/20010625040837/www.interlink.es/cookies/guion/Napoleon.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Next_Friday.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Nick-Of-Time-script.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Night+Of+The+Hunter,+The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Nightmare+On+Elm+Street,+A.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Ninotchka.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/aliens.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://home.online.no/~bhundlan/scripts/Nixon.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/No%20Country%20For%20Old%20Men%20(Shooting).txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Nurse%20Betty.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/O%20Brother%20Where%20Art%20Thou.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Officer+And+A+Gentleman,+An.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Panic_Room_Koepp.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Panther.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Patriot_1999.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Pet-Sematary.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.wordplayer.com/archives/PIRATES.cover.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Amadeus.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/PlasticMan.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Platinum_Blonde.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.hundland.org/scripts/Pleasantville.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Punch-Drunk_Love.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Quills.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/RKO218.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Raging+Bull.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Rear+Window.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Rebel_Without_A_Cause.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Reindeer+Games.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/American%20Werewolf%20In%20London,%20An.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Reservoir+Dogs.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Roughshod.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Scary+Movie+2.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Serial+Mom.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/SeventhVictim.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Sex+Lies+And+Videotape.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Shivers.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/ShockTreatmentShootingScript.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Sideways.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Signs.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/American_Madness.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Silverado.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Simone_Andrew_Niccol.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Sixth%20Sense,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Slash.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/SliTHER.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Smokey%20And%20The%20Bandit.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Smokin'+Aces.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Solaris.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.angelfire.com/movies/ridleyscott/script/SomeoneToWatchOverMe.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Spider-Man%20(Unproduced).txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/American_Outlaws.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Stalag%2017.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/StarTrekGenerations.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/Trek/Star_Trek_III.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/startrek2_wrathofkhan.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/Trek/Star_Trek_IV.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/Trek/Star_Trek_IX.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/Trek/Star_Trek_VIII.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/StarTrek6-TheUndiscoveredCountry.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/Trek/Star_Trek_X.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Starman.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/15minutes.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/american_psycho_unproduced.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/StrangeDays.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Suspect%20Zero%20(Unproduced).txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Swingers.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Godfather,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Talented%20Mr%20Ripley,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Taxi%20Driver.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/The-Rock.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Majestic,+The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Birds,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/TheBodySnatcher.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Antitrust.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.hundland.org/scripts/TheCrowSalvation.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Day%20The%20Earth%20Stood%20Still,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://home.online.no/~bhundlan/scripts/TheLostBoys.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Thing,+The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/TheTimeMachine_1959.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/The_Jacket.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Thelma%20And%20Louise.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/There's+Something+About+Mary.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Thirteen+Days.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Thunderheart.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Austin%20Powers%20-%20International%20Man%20Of%20Mystery.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/TopGun.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/totalrecall_5th_draft.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://home.online.no/~bhundlan/scripts/Tremors.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/True%20Believer.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Twin+Peaks+-+Fire+Walk+With+Me.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Verdict,+The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/WARWORLDS.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.hundland.org/scripts/WesCravensNewNightmare.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.angelfire.com/movies/ridleyscott/script/WhiteSquall.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Wild+At+Heart.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Avengers.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Wonder+Boys.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Woodsman,+The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/abyss.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/script/adventure.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/agnesofgod.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Hard+Day's+Night,+A.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/alien.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/aliens_vs_predator.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/All%20About%20Eve.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/All%20The%20President's%20Men.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Bachelor%20Party.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/american-pie_production.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/american_werewolf_paris.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.moviescriptsandscreenplays.com/johncusack/scripts/anastasia.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Annie%20Hall.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/anniversaryparty.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/antz.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/apartment.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/apocalypsenowredux.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/arcticblue.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/As+Good+As+It+Gets.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Backdraft%20(1991).txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/assassins_shooting.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/asylum.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/awalktoremember.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/backtothefuture_early.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Badlands.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/banzai_script.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Barton%20Fink.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/basic_instinct.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/basquiat.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/batman-returns_shooting.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Bad%20Lieutenant.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/batmanandrobin.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/batmanforever.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/batmanscript1.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/bean.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/beavis_and_butthead_do_america.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/beetlejuice_skaaren_final.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Being+There.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/beingjohnmalkovich.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/beloved_lagravenese.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Big%20Lebowski,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/Bamboozled.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/black-dahlia_early.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/blade2.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/blade.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/blair-witch-2.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Blood%20Simple.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/bloodmoon.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/blow.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/boa.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/bodyofevidence.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/bomc.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/BarryLyndon.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/HorrorWorld/newyork/bones.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.hundland.org/scripts/Bound_FirstDraft.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Bourne+Identity,+The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/brazil.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Bringing+Out+The+Dead.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/broadc_news.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/msol/bucket_of_blood.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/buffy_the_vampire_slayer.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Bull+Durham.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Casino.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Basic.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/catwoman.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/cellular_cohen.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Crying%20Game,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Charade.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/msol/cherryfalls.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/chillfactor.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Chinatown.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/cinema_paradiso.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/script/citizenkane_script.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Clerks.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/2001.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Big+Fish.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/cliffhanger_stallone.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/clockwork.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/collateral_darabont.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/conspiracy-theory.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/contact.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/script/cool_hand_luke.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/copycat.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Crash+(1996).txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/crazy_love.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/crimespree.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Birthday+Girl.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/crouchingtiger.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/crow.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/cruel-intentions.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/cursecat.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/cursethe.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/dark-city_early-rewrite.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/msol/dave.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/dayofthedead.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Dead%20Poets%20Society.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/deeprising.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Black%20Snake%20Moan.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/deer_hunter.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/demolition-man_production.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/script/devilanddanielwebster.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/diehard.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/dog_day_afternoon.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/domino.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/dotherightthing.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://web.archive.org/web/20040611014121/www.awesomefilm.com/script/dumbanddumberer.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/dune.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/ed-wood.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.angelfire.com/movies/ridleyscott/script/BlackRain.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/edtv.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/election.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/LA%20Confidential.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/enemyofthestate.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/englishpatient.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/entrapment_production.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Erin+Brockovich.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/esb_final.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/escape_pota.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/escapela.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/blade-runner_shooting.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Excalibur.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/exorcist.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Fabulous_Baker_boys_final.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/faceoff_production.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/familyman.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/fantasticfour.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/fantasticvoyager.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Fargo.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/fight_club_shoot.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/final_destination2.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.hundland.org/scripts/Blast-from-the-Past.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/finaldestination.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/rambo_first_blood_2.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/fisher-king_shooting.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/fiveeasypieces.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/fivefeetandrising.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Fletch.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/ford-fairlane_early.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/frenchconnection.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/frequency.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/friday13th3.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Blue+Velvet.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/friday13th6.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/friday13thjasongoestohell.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/friday_13_8.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/game_6.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Gandhi.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/gattaca_early.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/getaway.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/getcarter.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/glengarry.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/godfather2.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Boondock%20Saints,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Gods%20And%20Monsters.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/gone_in_60_seconds.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/goodfellas.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.moviescriptsandscreenplays.com/BenandMatt/goodwillhunting.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Grapes%20Of%20Wrath,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Grosse%20Pointe%20Blank.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/h_whispr.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/hackers.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/halloween4.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Halloween.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Bottle+Rocket.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Hannah%20And%20Her%20Sisters.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Hannibal%20-%20Zaillian.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/happy-campers_early.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/heathers_shooting.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/heavenlycreatures.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/hellraiser_hellseeker_orig.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/hero1.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/hider-in-the-house.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/highlander3.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://home.online.no/~bhundlan/scripts/hostage.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Bourne+Supremacy,+The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/hotel_rwanda.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/house-on-haunted-hill.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/houseOfTheDamned.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.cenobite.com/library/hr3-910701.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/hudson-hawk_early.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Hudsucker%20Proxy,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/i-walked_with_a_zombie.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/icestorm.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/insomnia.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/interview.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/48hours.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Braveheart.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/iskwydls.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/isleofthedead.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/script/itsawonderfullife.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Jaws%202.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/jaws3_1st_draft.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/jaws_the_revenge.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/script/jazzsinger.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/jennifer-eight-script.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/jerryMaguire.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/jp3.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Butterfly+Effect,+The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/jurassic2_thw.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/JurassicPark_1stDraft.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/jvsf_bm.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/kafka.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/kingkong.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/klute.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Kramer%20vs%20Kramer.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Kundun.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/lake-placid.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/lambsfinal.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Casablanca.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/last-of-the-mohicans-script.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/leviathan_shooting.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/msol/lockstock_screenplay.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Lone%20Star.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/lordofillusions.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/lost-in-translation-script.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/lostsouls.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/love_and_basketball.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/magnolia.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/man_in_iron_mask_95.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.hundland.org/scripts/CastAway.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/manhunt.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/manhunter.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/msol/manonthemoon.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/matrix_97_draft.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/meanstreet.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/meetjoeblack.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/memento.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/miamivice.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Midnight%20Cowboy.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/midnightexpress.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Cider%20House%20Rules,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/mimic_production.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Misery.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/mission-impossible-2_shoot.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/mission-impossible_shoot.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Moonstruck.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.angelfire.com/movies/closedcaptioned/mp-holy.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/mrs_brown.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/ms_arcad.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/mulholland_drive.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/murderland.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Confidence.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/msol/my_girl_2.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/msol/my_girl.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/mybestfriendswedding.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/nashville.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/natural-born-killers_shoot.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/emruf3/nbam.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.angelfire.com/movies/moviefreak/negotiator.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/neuromancer.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/neverbeenkissed.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/nightmare-b4-xmas_early.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Croupier.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/nightmare_on_elm_street2.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/nightmare_on_elm_street3.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/nothill.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/One%20Flew%20Over%20The%20Cuckoo's%20Nest.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/onlyyou.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/onthewaterfront.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/HorrorWorld/edwood/orgyofthedead.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Out%20Of%20Sight.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/pearl_harbor_early.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/peggysue.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Dark+Star.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/petsemetaryii.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/philadelphia.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/pitch-black_shooting.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/POTA_Remake.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Platoon.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/playback.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/ploughmans_lunch.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/pointbreak.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/predator.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/prettywoman.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.hundland.org/scripts/DarkAngel.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Princess%20Bride,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Producers,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Psycho.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/script/qMANIAC.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/script/qVAMPYR.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/script/qWAX.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/quantumproject.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/ramblingrose.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/redwhiteblackandblue.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/revengeofthejedi.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Detroit+Rock+City.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/rhps.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Rocky.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/cartoon/roger-rabbit.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/romeo+juliet.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/ronin_early.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://home.earthlink.net/~bhb1/scripts/rt9/route_9.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/rush_hour_2.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/RushHour.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/rwbride.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/s_seatl.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/5thelement.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Donnie+Darko.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/script/salt.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/salton_sea.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.moviescriptsandscreenplays.com/BenandMatt/savingprivateryan.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.moviescriptsandscreenplays.com/johncusack/scripts/sayanything.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/schindlerslist.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/scream2.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/scream3_early_draft.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Scream.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/se7en.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Searchers,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Drop+Dead+Gorgeous.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/sevendaystolive_2nd.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Shakespeare%20In%20Love.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/shallow.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/shampoo.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/shining.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/silverbullet.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/msol/sister_act.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/sleepy-hollow_shooting.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Sling%20Blade.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/smoke.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Duck%20Soup.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/snow-falling_shooting.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/soldier.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Some+Like+It+Hot.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/somethingborrowed.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/script/sounder.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/south-park.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/spaceJacked.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/spareme.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/sphere_shooting.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/star_wars_3rd.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Elephant+Man,+The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/starship_troopers.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/startrek01.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/State+And+Main.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/stepmom.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/storytelling.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/strangehold.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.visual-memory.co.uk/amk/doc/0055.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/suburbia.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/sugarandspice.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/sunset_bld_3_21_49.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Erik+The+Viking.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/supergirl.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/superman3_script.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/supermanii_scriptment_2_76.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/superman_IV.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/superman_original.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/sweethereafter.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/sweetsmell.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/t2.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/takingsides.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/terminator_1_4th_draft.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Eternal+Sunshine+Of+The+Spotless+Mind.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/the-game-early.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/the-haunting_production.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/the-limey.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Man%20Who%20Wasn't%20There,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/the-relic_early.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/the-truman-show_shooting.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/the-x-files_production.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/the_cell.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/the_third_man.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/msol/beach/script01_15.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Even%20Cowgirls%20Get%20The%20Blues.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/thebeliever.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/thebigblue.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/thehebrewhammer.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/theleopardman.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.alibi-books.com/thelostson/thelostson.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/themessenger.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Pianist,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/thepianolesson.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Sting,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.geocities.com/kingrr/thin.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Event%20Horizon.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/three-kings_unproduced.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/thx1138.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/ticker.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/emruf3/tip.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Titanic.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/emruf3/tm.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/tomb_stone.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/tomorrowneverdies.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/tosleepwithanger.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/toy_story.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Fantastic+Four.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/emruf3/toyshop.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Traffic.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/trainspotting.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/trek5.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/tron.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/truelies.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/trueromance.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/twelvemonkeys.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/u-turn_early.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/u-turn_shooting.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Fast+Times+At+Ridgemont+High.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Unbreakable.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Unforgiven.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Usual%20Suspects,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/msol/verdict.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Vertigo.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Very+Bad+Things.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/script/viridiana.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/virtuosity.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/wag-the-dog_production.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/wall_street.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/eight-millimeter.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Fear+&+Loathing+In+Las+Vegas.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/waxwork.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/What+Lies+Beneath.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/whatwomenwant.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/whitching_hour.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/whiteang.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.cvisual.com/film-techniques/whos-your-daddy-by-maria-veltre-and-jack-sekowski.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Wild+Things.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/wildwest.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/willow.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Witness.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Feast%20-%20Revised%20Draft.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/wizoz.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.awesomefilm.com/script/worldisnotenough.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/wtchmn.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/xXx.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/xmenthing.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/young.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.aellea.com/script/zuludawn.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Frances.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Frankenstein+(1994).txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Friday%20The%2013th.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/From%20Dusk%20Till%20Dawn.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.angelfire.com/movies/ridleyscott/script/GIJane.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/GODZILLAfirst.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/GalaxyQuest.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.fortunecity.com/tattooine/clarke/38/scripts/GeorgeWashington.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.hundland.org/scripts/A-Nightmare-on-Elm-Street-4.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Get+Shorty.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.whiskeyloosetongue.com/scripts/ghostship.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Ghost%20World.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Ghost%20And%20The%20Darkness,%20The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/Ghostbusters-2.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/Ghostbusters.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.angelfire.com/movies/ridleyscott/script/gladiator_seconddraft.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Graduate,+The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Grand%20Hotel.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Grifters_Westlake.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.hundland.org/scripts/A-Nightmare-on-Elm-Street-5.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/H20.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Halloween_6_The_Curse_of_Michael_Myers.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Happy_Birthday_Wanda_JUne.html",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Hardcore.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://home.online.no/~bhundlan/scripts/Harold-and-Maude.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Hellbound+-+Hellraiser+II.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Hellboy.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Hellraiser.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/High%20Fidelity.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.scifiscripts.com/scripts/Highlander_final.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://leonscripts.tripod.com/scripts/ATOMICSUB.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/His%20Girl%20Friday.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Hope+And+Glory.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/House%20Of%201000%20Corpses.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Human+Nature.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Hustler,+The.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.horrorlair.com/scripts/legend.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://leonscripts.tripod.com/scripts/INVADERSold.htm",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Independence+Day.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Indiana%20Jones%20And%20The%20Last%20Crusade.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  },
+  {
+    "url": "http://www.dailyscript.com/scripts/Indiana%20Jones%20And%20The%20Temple%20Of%20Doom.txt",
+    "name": "Cornell Movie-Dialogs Corpus"
+  }
+]

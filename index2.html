@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <style>
+        /* Add your CSS styles here */
+        .bar {
+            fill: steelblue;
+        }
+    </style>
+</head>
+<body>
+    <!-- Container for the bar chart -->
+    <div id="bar-chart-container"></div>
+
+    <!-- Container for the tree chart -->
+    <div id="tree-container"></div>
+
+    <script>
+        // Sample data
+        const conversationsDataTree = {
+            name: 'Movies',
+            children: [
+                {
+                    name: 'Fantasy',
+                    children: [
+                        {
+                            name: 'A Nightmare on Elm Street 4: The Dream Master',
+                            meta: {
+                                movie_name: 'A Nightmare on Elm Street 4: The Dream Master',
+                                release_year: '1988',
+                                rating: '5.20',
+                                votes: '13590',
+                                genre: ['fantasy', 'horror', 'thriller'],
+                            },
+                        },
+                    ],
+                },
+                {
+                    name: 'Action',
+                    children: [
+                        {
+                            name: 'Inception',
+                            meta: {
+                                movie_name: 'Inception',
+                                release_year: '2010',
+                                rating: '8.8',
+                                votes: '1983220',
+                                genre: ['action', 'adventure', 'sci-fi'],
+                            },
+                        },
+                        {
+                            name: 'The Dark Knight',
+                            meta: {
+                                movie_name: 'The Dark Knight',
+                                release_year: '2008',
+                                rating: '9.0',
+                                votes: '2345678',
+                                genre: ['action', 'crime', 'drama'],
+                            },
+                        },
+                        {
+                            name: 'The Matrix',
+                            meta: {
+                                movie_name: 'The Matrix',
+                                release_year: '1999',
+                                rating: '8.7',
+                                votes: '1765432',
+                                genre: ['action', 'sci-fi'],
+                            },
+                        },
+                        {
+                            name: 'The Lord of the Rings: The Fellowship of the Ring',
+                            meta: {
+                                movie_name: 'The Lord of the Rings: The Fellowship of the Ring',
+                                release_year: '2001',
+                                rating: '8.8',
+                                votes: '1543210',
+                                genre: ['action', 'adventure', 'drama'],
+                            },
+                        },
+                    ],
+                },
+                {
+                    name: 'Drama',
+                    children: [
+                        {
+                            name: 'The Shawshank Redemption',
+                            meta: {
+                                movie_name: 'The Shawshank Redemption',
+                                release_year: '1994',
+                                rating: '9.3',
+                                votes: '2456789',
+                                genre: ['drama'],
+                            },
+                        },
+                        {
+                            name: 'Pulp Fiction',
+                            meta: {
+                                movie_name: 'Pulp Fiction',
+                                release_year: '1994',
+                                rating: '8.9',
+                                votes: '2123456',
+                                genre: ['crime', 'drama'],
+                            },
+                        },
+                        {
+                            name: 'Forrest Gump',
+                            meta: {
+                                movie_name: 'Forrest Gump',
+                                release_year: '1994',
+                                rating: '8.8',
+                                votes: '1987654',
+                                genre: ['drama', 'romance'],
+                            },
+                        },
+                        {
+                            name: 'Fight Club',
+                            meta: {
+                                movie_name: 'Fight Club',
+                                release_year: '1999',
+                                rating: '8.8',
+                                votes: '1876543',
+                                genre: ['drama'],
+                            },
+                        },
+                    ],
+                },
+                {
+                    name: 'Crime',
+                    children: [
+                        {
+                            name: 'The Godfather',
+                            meta: {
+                                movie_name: 'The Godfather',
+                                release_year: '1972',
+                                rating: '9.2',
+                                votes: '2654321',
+                                genre: ['crime', 'drama'],
+                            },
+                        },
+                    ],
+                },
+            ],
+        };
+
+        // Create SVG container for the bar chart
+        const barChartSvg = d3.select('#bar-chart-container')
+            .append('svg')
+            .attr('width', 400)
+            .attr('height', 200);
+
+        // Create SVG container for the tree chart
+        const treeSvg = d3.select('#tree-container')
+            .append('svg')
+            .attr('width', 400)
+            .attr('height', 200);
+
+        // Initialize scales and call update function
+        updateScales();
+
+        // Function to update scales based on data
+        function updateScales() {
+            // Create scales
+            const xScale = d3.scaleBand().range([0, 400]).padding(0.1);
+            const yScale = d3.scaleLinear().range([200, 0]);
+
+            xScale.domain(conversationsDataTree.children.map(d => d.name));
+            yScale.domain([0, d3.max(conversationsDataTree.children, d => d.children.length)]);
+
+            // Create the bar chart
+            const bars = barChartSvg.selectAll('.bar')
+                .data(conversationsDataTree.children);
+
+            bars.enter().append('rect')
+                .attr('class', 'bar')
+                .attr('x', d => xScale(d.name))
+                .attr('width', xScale.bandwidth())
+                .attr('y', 200)
+                .attr('height', 0)
+                .on('mouseover', handleMouseOver)
+                .on('mouseout', handleMouseOut)
+                .merge(bars)
+                .transition()
+                .attr('y', d => yScale(d.children.length))
+                .attr('height', d => 200 - yScale(d.children.length));
+
+            // Create the tree layout
+            const treeLayout = d3.tree().size([400, 200]);
+
+            // Create a root node from the tree data
+            const rootNode = d3.hierarchy(conversationsDataTree);
+
+            // Assign coordinates to each node in the tree
+            treeLayout(rootNode);
+
+            // Add links
+            treeSvg.selectAll('path.link')
+                .data(rootNode.links())
+                .enter().append('path')
+                .attr('class', 'link')
+                .attr('d', d3.linkHorizontal().x(d => d.y).y(d => d.x));
+
+            // Add nodes
+            const nodes = treeSvg.selectAll('g.node')
+                .data(rootNode.descendants());
+
+            const enteredNodes = nodes.enter().append('g')
+                .attr('class', 'node')
+                .attr('transform', d => `translate(${d.y},${d.x})`)
+                .on('mouseover', handleMouseOver)
+                .on('mouseout', handleMouseOut);
+
+            enteredNodes.append('circle')
+                .attr('r', 7);
+
+            enteredNodes.append('text')
+                .attr('dy', 3)
+                .attr('x', d => d.children ? -8 : 8)
+                .attr('text-anchor', d => d.children ? 'end' : 'start')
+                .text(d => d.data.name);
+        }
+
+        // Function to handle mouseover event
+        function handleMouseOver(event, d) {
+            // Highlight the corresponding bar in the bar chart
+            barChartSvg.selectAll('.bar')
+                .filter(barData => barData === d)
+                .style('fill', 'orange');
+        }
+
+        // Function to handle mouseout event
+        function handleMouseOut(event, d) {
+            // Reset the color of the bars in the bar chart
+            barChartSvg.selectAll('.bar')
+                .filter(barData => barData === d)
+                .style('fill', 'steelblue');
+        }
+    </script>
+</body>
+</html>

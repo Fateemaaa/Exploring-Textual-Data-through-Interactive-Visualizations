@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Processed Data and Interactive Visualization</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <h1>Processed Data</h1>
+
+    {% for entry in processed_data %}
+        <h2>Movie Name: {{ entry.movie_name }}</h2>
+        <h3>Genre: {{ entry.genre }}</h3>
+
+        <ul>
+            {% for sentence in entry.processed_sentences %}
+                <li>
+                    <p>Original: {{ sentence.original }}</p>
+                    <p>Filtered: {{ sentence.filtered }}</p>
+                    <p>Stemmed: {{ sentence.stemmed }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+
+    <hr>
+
+    <h1>Interactive Data Visualization</h1>
+    <canvas id="myChart" width="400" height="200"></canvas>
+
+    <script>
+        // Fetch data from the backend
+        fetch('/data')
+            .then(response => response.json())
+            .then(data => {
+                // Create a Chart.js plot
+                var ctx = document.getElementById('myChart').getContext('2d');
+                var myChart = new Chart(ctx, {
+                    type: 'scatter',
+                    data: {
+                        labels: data.release_years,
+                        datasets: [{
+                            label: 'Release Year vs. Rating',
+                            data: data.ratings,
+                            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            x: {
+                                type: 'linear',
+                                position: 'bottom',
+                                title: {
+                                    display: true,
+                                    text: 'Release Year'
+                                }
+                            },
+                            y: {
+                                type: 'linear',
+                                position: 'left',
+                                title: {
+                                    display: true,
+                                    text: 'Rating'
+                                }
+                            }
+                        }
+                    }
+                });
+            });
+    </script>
+</body>
+</html>
